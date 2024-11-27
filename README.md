@@ -32,8 +32,8 @@ https://xxx.com/api/v1/auth/me
 
 ### 支持情况
 
-- RESTful 规范的HTTP 响应结构：成功、失败、异常场景统一结构响应；多语言提示返回
-- Jwt-auth 方式授权
+- RESTful 规范的HTTP 响应结构：成功、失败、异常场景统一结构响应；
+- Sanctum 方式授权
 
 
 ### 目录结构
