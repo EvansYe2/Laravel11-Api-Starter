@@ -39,9 +39,6 @@ https://xxx.com/api/v1/auth/me
 
 ```
 ├── app
-│   ├── Console
-│   │   ├── Commands                  // cli command：通常用于实现轮询任务
-│   │   └── Kernel.php                // Schedule 调度
 │   ├── Contracts                     // 定义 interface
 │   ├── Api                        // 事件处理
 │   │   ├── V1
