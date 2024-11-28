@@ -15,6 +15,7 @@
 会laravel基本都会使用，好记性不如烂笔头，比较习惯记录下来：
 - 修改.env数据库连接信息
 - composer install
+- php artisan key:generate
 - php artisan migrate
 - 创建测试的用户：php artisan db:seed --class=UsersTableSeeder
 - php artisan storage:link
