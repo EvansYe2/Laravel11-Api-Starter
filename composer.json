@@ -7,7 +7,6 @@
     "require": {
         "php": "^8.2",
         "astrotomic/laravel-translatable": "^11.14",
-        "filament/filament": "^3.2",
         "jiannei/laravel-response": "^6.0",
         "laravel/framework": "^11.9",
         "laravel/sanctum": "^4.0",
